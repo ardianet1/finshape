@@ -1,0 +1,2 @@
+# finshape
+Code accompanyment
